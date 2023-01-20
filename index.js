@@ -5,6 +5,7 @@ const hacker2 = "Alberto";
 console.log(`The driver's name is ${hacker1}.`);
 console.log(`The navigator's name is ${hacker2}.`);
 
+
 // Iteration 2: Conditionals
 //2.1 Print depending on which name is longer
 const longerName =
